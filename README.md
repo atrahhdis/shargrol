@@ -4,7 +4,7 @@ This e-book is an html --> docx --> epub (and later azw3/mobi) conversion of the
 
 https://shargrolpostscompilation.blogspot.com/p/blog-page.html
 
-It is based on Shargrols' posts at dharmaoverground.org.
+It is based on Shargrol's posts at dharmaoverground.org.
 
 ## Downloads (latest update 2020-02-13):
 
