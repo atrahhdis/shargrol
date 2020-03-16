@@ -1,6 +1,6 @@
 # A compilation of Shargrol's Posts at Dharmaoverground.org
 
-This e-book is an html --> docx --> epub (and later azw3/mobi) conversion of the following website by Pepe:
+This e-book is an html --> docx --> epub (and later azw3/mobi) conversion of the following website by **Pepe**:
 
 https://shargrolpostscompilation.blogspot.com/p/blog-page.html
 
