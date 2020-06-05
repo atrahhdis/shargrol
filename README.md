@@ -6,7 +6,7 @@ https://shargrolpostscompilation.blogspot.com/p/blog-page.html
 
 It is based on Shargrol's posts at dharmaoverground.org.
 
-According to [this post](https://www.dharmaoverground.org/discussion/-/message_boards/message/19256418?_19_delta=20&_19_keywords=&_19_advancedSearch=false&_19_andOperator=true&_19_resetCur=false&_19_cur=2#_19_message_21253240) is supposed to be the final version of this document. 
+According to [this post](https://www.dharmaoverground.org/discussion/-/message_boards/message/19256418?_19_delta=20&_19_keywords=&_19_advancedSearch=false&_19_andOperator=true&_19_resetCur=false&_19_cur=2#_19_message_21253240), this is supposed to be the final version of this document. 
 
 ## Downloads (latest update 2020-06-05):
 
