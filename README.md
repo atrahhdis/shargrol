@@ -10,7 +10,7 @@ According to [this post](https://www.dharmaoverground.org/discussion/-/message_b
 
 ## Downloads (latest update 2020-06-05):
 
-- [epub](https://github.com/atrahhdis/shargrol/raw/master/ebooks/A%20Compilation%20of%20Shargrol's%20Posts%20at%20Dharm%20-%20Shargrol.epub)
-- [azw3 (kindle)](https://github.com/atrahhdis/shargrol/raw/master/ebooks/A%20Compilation%20of%20Shargrol's%20Posts%20at%20Dharm%20-%20Shargrol.azw3)
-- [mobi (old kindle devices)](https://github.com/atrahhdis/shargrol/raw/master/ebooks/A%20Compilation%20of%20Shargrol's%20Posts%20at%20Dharm%20-%20Shargrol.mobi)
+- [epub](https://github.com/atrahhdis/shargrol/raw/master/ebooks/A%20Compilation%20of%20Shargrol's%20Posts%20at%20Dharmaovergound%20-%20Shargrol.epub)
+- [azw3 (kindle)](https://github.com/atrahhdis/shargrol/raw/master/ebooks/A%20Compilation%20of%20Shargrol's%20Posts%20at%20Dharmaovergound%20-%20Shargrol.azw3)
+- [mobi (old kindle devices)](https://github.com/atrahhdis/shargrol/raw/master/ebooks/A%20Compilation%20of%20Shargrol's%20Posts%20at%20Dharmaovergound%20-%20Shargrol.mobi)
 
