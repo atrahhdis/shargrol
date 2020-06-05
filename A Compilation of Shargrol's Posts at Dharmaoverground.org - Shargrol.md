@@ -2307,3 +2307,28 @@ Any particular experience isn't diagnostic, but rather it's the trend over time.
 
  :: Fourth path ::
  -And deep honesty post-Fourth  ([DhO](https://www.dharmaoverground.org/discussion/-/message_boards/message/15037688))
+
+
+# Notes
+
+## Author
+
+This is a compilation of forum posts by [Shargrol](https://www.dharmaoverground.org/web/shargrol/home).
+
+It was created by [Pepe](https://www.dharmaoverground.org/web/pepe/home).
+
+## Source 
+
+This e-book is just an ebup/mobi/azw3/md version of the following website created by [Pepe](https://www.dharmaoverground.org/web/pepe/home):
+
+- [https://shargrolpostscompilation.blogspot.com/p/blog-page.html](https://shargrolpostscompilation.blogspot.com/p/blog-page.html)
+
+
+## About this e-book
+
+This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+
+
+## Version
+
+V 2.00 - 2020-06-05
