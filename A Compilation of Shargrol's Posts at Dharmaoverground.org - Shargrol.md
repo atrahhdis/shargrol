@@ -2326,9 +2326,9 @@ This e-book is just an epub/mobi/azw3/md version of the following website create
 
 ## About this e-book
 
-This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+This e-book was created by [ahtrahddis](https://github.com/ahtrahddis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
 
 
 ## Version
 
-V 2.00 - 2020-06-05
+V 2.01 - 2020-09-30
